@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @migrkiltro
-- 🌱 I’m currently learning ... Informatic - UNED
+- 👋 Hi, I’m @marcelogr
+- 🌱 I’m currently learning ... Informatics - UNED
 
 <!---
 migrkiltro/migrkiltro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
